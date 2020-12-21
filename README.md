@@ -17,4 +17,8 @@ $ yarn start
 # Terminal 3
 $ yarn android
 
+
+debug (ctrl + m no emulador) 
+http://localhost:8081/debugger-ui/
+
 ```
